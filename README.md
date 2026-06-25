@@ -1,0 +1,2 @@
+# PROJECTS-SKYPERS-CUSTOM_WIDGET_02_KPINORMAL
+MAX Estates: Custom Widget for SAP SAC - KPI Normal Widget
